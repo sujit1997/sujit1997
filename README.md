@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Java, Selenium**
 
-- 📫 How to reach me **sujitmanmode1997@gmail.com** 9325825024
+- 📫 How to reach me **sujitmanmode1997@gmail.com**
+-                     **9325825024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
