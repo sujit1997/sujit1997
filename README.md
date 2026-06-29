@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sujitmanmode1997@gmail.com 9325825024**
 
-- 📄 Know about my experiences [https://sujit1997.github.io/portfolio/Sujit_Manmode_Automation_Developer.pdf](https://sujit1997.github.io/portfolio/Sujit_Manmode_Automation_Developer.pdf)
+- 📄 Know about my experiences [https://sujit1997.github.io/portfolio/Sujit_Manmode_Automation_Developer.pdf](https://sujit1997.github.io/portfolio/Sujit_Manmode.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
